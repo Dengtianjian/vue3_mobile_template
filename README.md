@@ -1,1 +1,2 @@
-# vue3_mobile_template
+# vue-template
+Vue3项目基础模板

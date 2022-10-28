@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+*.local
+
+# 产出
+components_dist
+vue_dist
+outputs
+dist
+dist-ssr
+
+# 打包日志
+log.txt
+components.d.ts
